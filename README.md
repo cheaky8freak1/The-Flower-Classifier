@@ -1,6 +1,6 @@
 # 🌸 Flower Classifier
 ---
-
+пипец, я ща обнаружил, что этот датасет запрещен... аааааааааааааааааааааааа
 ## 📋 Problem statement
 
 To develop a system for classifying color images into 4 categories.  
