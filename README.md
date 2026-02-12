@@ -53,7 +53,7 @@ A public dataset is being used **[Flowers Recognition](https://www.kaggle.com/da
 
 | Component | Details |
 |--------------------|----------------------------------------|
-| Backbone           | ResNet-18 (pretrained on ImageNet)    |
+| Backbone           | RexNet-150 (pretrained on ImageNet)    |
 | Loss function | `CrossEntropyLoss` + `CosineEmbeddingLoss` |
 | Embeddings | Are saved for future reference |
 
